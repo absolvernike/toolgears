@@ -112,3 +112,4 @@ A: Simply close the program and delete the folder from your PC. No leftover file
  
  
  
+ 
